@@ -7,8 +7,8 @@ a Vue2Leaflet plugin wrapper for [leaflet-ruler](https://github.com/gokertanrise
 
 ## Usage
 
-
-`//...
+```
+//...
 import LRuler from "vue2-leaflet-ruler";
 //...
 
@@ -17,14 +17,17 @@ export default {
   components: {
     "l-ruler": LRuler,
   },
-  //...`
+  //...
+```
 
 At the moment only default options of [leaflet-ruler](https://github.com/gokertanrisever/leaflet-ruler) are supported.
 
-`<l-map>
+```
+<l-map>
   <!-- other components -->
   <l-ruler />
-</l-map>`
+</l-map>
+```
 
 ## Credits
 
