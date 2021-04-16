@@ -1,6 +1,6 @@
 {
   "name": "vue2-leaflet-ruler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "leaflet-ruler extension plugin for vue2leaflet package",
   "main": "./LRuler.vue",
   "repository": {
