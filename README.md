@@ -3,7 +3,7 @@ a Vue2Leaflet plugin wrapper for [leaflet-ruler](https://github.com/gokertanrise
 
 ## Installation
 
-`npm install --save panbak/vue2-leaflet-ruler`
+`npm i vue2-leaflet-ruler`
 
 ## Usage
 
