@@ -19,7 +19,7 @@
     "url": "https://github.com/panbak/vue2-leaflet-ruler/issues"
   },
   "homepage": "https://github.com/panbak/vue2-leaflet-ruler#readme",
-  "dependencies": {
+  "peerDependencies": {
     "leaflet-ruler": "https://github.com/gokertanrisever/leaflet-ruler/tarball/master",
     "vue2-leaflet": "^2.0.0"
   },
