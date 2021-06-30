@@ -20,8 +20,6 @@ export default {
   //...
 ```
 
-At the moment only default options of [leaflet-ruler](https://github.com/gokertanrisever/leaflet-ruler) are supported.
-
 ```
 <l-map>
   <!-- other components -->
